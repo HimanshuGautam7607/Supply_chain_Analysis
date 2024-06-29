@@ -1,1 +1,2 @@
 # Supply_chain_Analysis
+This project provides a detailed analysis of supply chain data, highlighting key metrics and trends through various visualizations. The insights gained from the analysis can help in understanding the performance of different product types, shipping carriers, and transportation modes, as well as identifying areas for improvement in terms of defect rates and cost management. The use of interactive visualizations with Plotly enhances the exploration and presentation of the data, making it easier to derive actionable insights.
